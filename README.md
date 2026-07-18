@@ -1,5 +1,5 @@
 # About Me :
-Aspiring  Data Sceince & Analytics
+ Data Sceince & Gen AI
 
 
 ## 🌐 Socials:
